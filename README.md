@@ -2,18 +2,20 @@
 
 ## We would please want you to do one of the following survey.
 
-We want each participant to randomly select one of the three surveys. To do this we ask you to select the survey based on current time in hh:mm:ss. 
+We want each participant to randomly select one of the three surveys. To do this we ask you to select the survey based on your date of birth. 
+
+By continuing you are agreeing to be part of the survey.
 
 
-If the current time is xx:xx:00 - xx:xx:19 (the first 20 seconds of any minute) please do the following survey:
+If your date of birth is in any of the days 1-10:
 </br>
 [link to survey](https://bit.ly/MT4XAI-A)
 
-If the current time is xx:xx:20 - xx:xx:39 (the second 20 seconds of any minute) please do the following survey:
+If your date of birth is in any of the days 11-20:
 </br>
 [link to survey](https://bit.ly/MT4XAI-B)
 
-If the current time is xx:xx:40 - xx:xx:59 (the last 20 seconds of any minute) please do the following survey:
+If your date of birth is in any of the days 21-31:
 </br>
 [link to survey](https://bit.ly/MT4XAI-C)
 
