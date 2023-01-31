@@ -4,7 +4,7 @@ A survey for the project XAI4MT.
 
 ## We would please want you to do one of the following survey.
 
-We want each participant to randomly select one of the three surveys. To do this we ask you to select the survey based on the clock. 
+We want each participant to randomly select one of the three surveys. To do this we ask you to select the survey based on current time in hh:mm:ss. 
 
 
 If your time shows xx:xx:00 - xx:xx:19 (the first 20 seconds of any minute) please do the following survey:
