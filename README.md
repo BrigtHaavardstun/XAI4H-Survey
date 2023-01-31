@@ -4,8 +4,7 @@
 
 We want each participant to randomly select one of the three surveys. To do this we ask you to select the survey based on your date of birth. 
 
-By continuing you are agreeing to be part of the survey.
-
+By continuing you are agreeing to be part of the survey. The results of the survey will be published anonymously.
 
 If your date of birth is in any of the days 1-10:
 </br>
