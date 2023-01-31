@@ -20,3 +20,4 @@ If the current time is xx:xx:40 - xx:xx:59 (the last 20 seconds of any minute) p
 [link to survey](https://bit.ly/MT4XAI-C)
 
 
+This survey is conducted by [MT4XAI project](https://xai.w.uib.no/), which is supported by norwegian research council.
