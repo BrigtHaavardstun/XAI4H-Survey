@@ -6,15 +6,11 @@ We want each participant to randomly select one of the three surveys. To do this
 
 By continuing you are agreeing to be part of the survey. The results of the survey will be published anonymously.
 
-If your date of birth is in any of the days 1-10:
+If your date of birth is in any of the days 1-15:
 </br>
 [link to survey](https://bit.ly/MT4XAI-A)
 
-If your date of birth is in any of the days 11-20:
-</br>
-[link to survey](https://bit.ly/MT4XAI-B)
-
-If your date of birth is in any of the days 21-31:
+If your date of birth is in any of the days 16-31:
 </br>
 [link to survey](https://bit.ly/MT4XAI-C)
 
